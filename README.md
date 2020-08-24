@@ -34,7 +34,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [[@bennyboo123](https://www.mpgh.net/forum/member.php?u=3566134)] the original idea
 * [Osu!Rx](https://github.com/mrflashstudio/osu-rx) original source
 
-##Video
+## Video
+
 [![Video](https://i.ibb.co/h9Mhy0k/image.png)](https://www.youtube.com/watch?v=etgscoKT1PI)
 
 <!-- MARKDOWN LINKS & IMAGES -->
